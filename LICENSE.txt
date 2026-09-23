@@ -1,0 +1,84 @@
+MULAKE — Multi Language Keyboard
+End-User License Agreement (EULA)
+
+Copyright (c) 2026 nasrudinz. All rights reserved.
+
+MULAKE (the "Software") is freeware: you may use it free of charge. It is not
+open-source software, and its source code is not published. By copying or using
+the Software you agree to the terms below. If you do not agree, do not use the
+Software.
+
+1. Grant of licence
+   You are granted a free, non-exclusive, non-transferable licence to use the
+   Software for personal, educational and business purposes, on any number of
+   devices you own or control.
+
+2. Sharing the Software
+   You may copy the Software and give it to others, provided that:
+   (a) you share it unmodified — the original files as published by the
+       copyright holder — together with this agreement and
+       THIRD-PARTY-NOTICES.txt;
+   (b) you do not charge for it, or for access to it, and do not include it in
+       a product or service that is sold (a website may offer it as a free
+       download); and
+   (c) you do not present it as your own work or suggest that the copyright
+       holder endorses you.
+   The official download page is
+   https://github.com/nasrudinz/MULAKE-releases/releases
+
+3. Restrictions
+   Except as this agreement allows, you may not:
+   (a) sell, rent, lease or sublicense the Software, or charge for it;
+   (b) modify, adapt or translate the Software, or create derivative works of
+       it;
+   (c) reverse engineer, decompile, or disassemble the Software, except to the
+       extent this restriction is prohibited by applicable law;
+   (d) remove or alter any copyright, trademark, or other proprietary notices.
+   Adding your own keyboard layouts through the "languages" folder, as the User
+   Guide describes, is permitted and is not a modification of the Software.
+
+4. Donations
+   The Software is free. Donations (for example through Buy me a coffee) are
+   voluntary. A donation is not payment for a licence and gives no additional
+   rights, and no right to support or updates.
+
+5. Ownership
+   The Software is licensed, not sold. All title, ownership rights, and
+   intellectual property rights in the Software remain with the copyright
+   holder. "MULAKE" and its logo are marks of the copyright holder.
+
+6. Third-party components and data
+   The Software includes third-party open-source components and data (keyboard
+   layouts and the dictionaries used by its input methods) that are licensed
+   under their own terms. See THIRD-PARTY-NOTICES.txt. Nothing in this agreement
+   limits your rights under, or grants rights that supersede, those licences;
+   in particular, the data files named there as licensed under CC BY-SA 4.0
+   remain under that licence.
+
+7. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. Limitation of liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT
+   HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+   ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Privacy
+   The Software runs locally. It does not log, store or remember keystrokes or
+   the text you type, and it does not send any data over the internet; its
+   dictionaries are built in. The feedback, donation and "check for updates"
+   buttons only open your own email program or web browser. It does not change
+   the operating system's language or keyboard settings.
+
+10. Termination
+   This licence ends automatically if you break its terms. You must then stop
+   using the Software and delete your copies.
+
+Contact: nasrudinz — "Send feedback" in the Software's About window, or
+https://www.buymeacoffee.com/nasrudinz
+
+NOTE: This EULA is a plain-language template, not legal advice. You may want to
+have it reviewed by a qualified lawyer in your market.
