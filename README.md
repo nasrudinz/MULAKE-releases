@@ -27,6 +27,28 @@ for typing a language you don't have a keyboard for.
   languages typed as they sound (namaste → नमस्ते, privet → привет, sawasdee → สวัสดี)
 - **Interface in English and ไทย**, with an illustrated User Guide and FAQ inside the app
 
+## Why MULAKE?
+
+It started on a trip abroad. I was borrowing someone else's computer and just wanted
+to type in Thai. Normally you'd add a Thai keyboard in Windows, right? But on someone
+else's PC, it's not that simple:
+
+- Often you're not an admin, so you can't install anything.
+- Even when you can, it feels a bit rude to mess with their settings.
+- And when you're done, you have to remember to undo it all.
+
+So I thought: what if there were an app you could just double-click and start typing
+your own language? No install, no admin, no settings touched, and when you close it the
+PC is exactly as it was. That's MULAKE.
+
+At first it was just for Thai. Then it hit me that plenty of people run into the same
+problem, not only Thais, so I kept adding languages. Now there's Chinese, Japanese,
+Korean, Hindi, Arabic and a lot more. Keep it on a USB stick and you can type your
+language on any PC you sit down at.
+
+P.S. "MULAKE" sounds like the Thai for "little pig" (หมูเล็ก), which is how we ended up
+with a pig for a mascot 🐷
+
 ## Get started
 
 1. Download `MULAKE.exe` from the [latest release](https://github.com/nasrudinz/MULAKE-releases/releases/latest)
@@ -135,6 +157,24 @@ MULAKE is free. If it helps you, ☕ [buy me a coffee](https://www.buymeacoffee.
   `namaste` → नमस्ते, `privet` → привет, `sawasdee` → สวัสดี
 - หน้าจอโปรแกรมเป็นภาษาไทยหรืออังกฤษก็ได้ (ตั้งค่า → ภาษาของโปรแกรม) พร้อมคู่มือ
   การใช้งานแบบมีภาพและ FAQ ในโปรแกรม (ปุ่ม ? → 📖 คู่มือการใช้งาน)
+
+### ทำไมถึงมี MULAKE
+
+เรื่องมันเริ่มจากตอนที่ผมไปต่างประเทศครับ ต้องยืมใช้คอมของคนอื่น แล้วอยากพิมพ์ภาษาไทย
+ปกติก็แค่ไปเพิ่มคีย์บอร์ดภาษาไทยใน Windows ใช่ไหมครับ แต่พอเป็นเครื่องคนอื่น มันไม่ง่ายแบบนั้น
+
+- บางเครื่องเราไม่ได้เป็น admin เลยติดตั้งอะไรไม่ได้
+- ต่อให้ติดตั้งได้ ก็รู้สึกเกรงใจที่ต้องไปยุ่งกับการตั้งค่าเครื่องของเขา
+- แล้วพอใช้เสร็จก็ต้องมานั่งไล่ลบคืนอีก
+
+เลยคิดว่า ถ้ามีโปรแกรมที่ดับเบิลคลิกแล้วพิมพ์ภาษาของเราได้เลย ไม่ต้องติดตั้ง ไม่ต้องขอสิทธิ์
+admin ไม่แตะการตั้งค่าอะไรของเครื่อง ปิดแล้วทุกอย่างก็เหมือนเดิม คงจะดีมาก ก็เลยทำ MULAKE ขึ้นมาครับ
+
+ตอนแรกตั้งใจแค่ให้พิมพ์ไทยได้ แต่ทำไปทำมาก็คิดว่า คนที่เจอปัญหาแบบเดียวกันคงไม่ได้มีแค่คนไทย
+เลยเพิ่มภาษาอื่นเข้าไปเรื่อย ๆ จนตอนนี้มีทั้งจีน ญี่ปุ่น เกาหลี ฮินดี อาหรับ และอื่น ๆ อีกเยอะ
+ใครเอาไปใส่ USB ติดตัวไว้ ไปใช้เครื่องไหนก็พิมพ์ภาษาตัวเองได้
+
+ป.ล. ชื่อ MULAKE อ่านแล้วคล้าย "หมูเล็ก" เลยได้น้องหมูมาเป็นมาสคอตด้วย 🐷
 
 **เริ่มใช้งาน:** ดาวน์โหลด `MULAKE.exe` แล้วเปิดได้เลย ถ้า Windows SmartScreen เตือน
 ให้กด **More info → Run anyway** (ไฟล์ยังไม่ได้เซ็นดิจิทัล)
