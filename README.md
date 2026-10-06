@@ -23,6 +23,9 @@ for typing a language you don't have a keyboard for.
   the PC is exactly as before
 - **Private** — works offline; nothing you type is logged, stored or sent anywhere
 - **Any two languages** — not English-locked: German ↔ Thai, Japanese ↔ Korean, …
+- **Any PC's keyboard** — on a French, German or UK keyboard, Thai and every other
+  language still type by key position, as the on-screen board shows; pick *This PC's
+  keyboard* to type what that PC's keys say
 - **Input methods built in** — Chinese, Japanese, Korean, Vietnamese, and 20
   languages typed as they sound (namaste → नमस्ते, privet → привет, sawasdee → สวัสดี)
 - **Interface in English and ไทย**, with an illustrated User Guide and FAQ inside the app
@@ -96,12 +99,21 @@ stores what you type, so it doesn't learn new words.
 Besides the input methods, MULAKE has the keyboard layouts of Windows itself — Thai
 Kedmanee and Pattachote, Lao, Arabic, Hebrew, Russian, Greek, Georgian, Armenian, the
 European layouts, Indic, African and many more — including Shift, AltGr and dead keys,
-so each one types exactly what the same Windows layout would. The pickers are grouped
-by continent, and **Settings → Languages in the ① ② lists** keeps them to the ones
-you use. Need the plain keyboard for a moment? Click the green switch in the header to
-pause MULAKE.
+so each one types exactly what the same Windows layout would.
 
-<img src="images/dropdown.png" alt="Language picker" width="300">&nbsp;&nbsp;<img src="images/settings.png" alt="Settings" width="260">
+- Keys type by their **position**, whatever layout the PC is set to, so a Thai
+  Kedmanee or Russian typist on a French AZERTY or German QWERTZ PC still hits the
+  right letters. **This PC's keyboard** (at the top of the list) types what that PC's
+  keys say instead — pair it with your language: ① PC, ② Thai.
+- Find a language by typing in the list: `fr`, `french`, `ไทย`, `中文`. Forms of one
+  language carry a tag: a standard region or script (`FR-CA`, `PT-BR`, `ES-419`,
+  `SR-LATN`) or a keyboard / input method (`TH·pat`, `ZH·注音`, `JA·かな`; `·abc` =
+  typed as it sounds).
+- **Settings → Languages in the ① ② lists** keeps the lists to the ones you use.
+  Need the plain keyboard for a moment? Click the green switch in the header to pause
+  MULAKE.
+
+<img src="images/dropdown.png" alt="Language list with search and tags" width="330">&nbsp;&nbsp;<img src="images/settings.png" alt="Settings" width="250">
 
 You can also add your own layout as a small `.json` file — see **User Guide → Add
 your own language**.
@@ -118,6 +130,9 @@ keyboard settings.
 - Apps running **as administrator**, the **sign-in / UAC screens** and some **games**
   don't accept typing from normal apps — that's Windows' own protection. Pause MULAKE
   there.
+- **Virtual machines** (VMware, VirtualBox, Hyper-V) pass only key presses to the
+  guest, so MULAKE can't type into a VM's window — it leaves those keys alone and says
+  so in its header. Run MULAKE inside the VM instead.
 - **Chinese in Windows 11 Notepad** may show as boxes (Notepad picks the font from
   your Windows keyboard language). Choose a Chinese font in Notepad, e.g. Microsoft
   YaHei; other apps are fine.
@@ -152,6 +167,9 @@ MULAKE is free. If it helps you, ☕ [buy me a coffee](https://www.buymeacoffee.
 - ไม่เพิ่มคีย์บอร์ดและไม่แก้การตั้งค่า Windows ปิดโปรแกรมแล้วเครื่องเหมือนเดิม
 - ทำงานออฟไลน์ ไม่เก็บ ไม่จำ และไม่ส่งสิ่งที่พิมพ์ไปไหน
 - เลือกสองภาษาใดก็ได้ แล้วกดปุ่มเดียวสลับไปมา (ค่าเริ่มต้นคือปุ่ม `` ` ``)
+- ใช้ได้กับเครื่องที่ตั้งแป้นภาษาอื่น เช่น ฝรั่งเศส เยอรมัน หรืออังกฤษ UK ภาษาไทยยังพิมพ์ตามตำแหน่งปุ่ม
+  ถูกต้อง และถ้าอยากพิมพ์ตามตัวที่เขียนบนปุ่มของเครื่องนั้น ให้เลือก “แป้นของเครื่องนี้”
+- ค้นหาภาษาในรายการได้ (fr, french, ไทย, 中文) และมีป้ายแยกแบบ เช่น FR-CA, TH·pat, ZH·注音
 - มีระบบป้อนข้อความในตัว: จีน (พินอิน จู้อิน ชางเจี๋ย) กวางตุ้ง ญี่ปุ่น (โรมาจิ คานะ)
   เกาหลี (2 ชุด 3 ชุด) เวียดนาม (Telex VNI) และอีก 20 ภาษาที่พิมพ์ตามเสียง เช่น
   `namaste` → नमस्ते, `privet` → привет, `sawasdee` → สวัสดี
